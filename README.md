@@ -8,6 +8,7 @@ Implementation of a neural network for the recognition of letters from an image.
 - problem solving with informed search (A star) and uninformed search (bfs) algorithms
 - graphic simulator developed in pygame
 
-At the end of the report there is also a guide for reproducing the project. Attached are also all the images for the pygame sprites, images for the matrix test, the already trained cnn model and other images (see guide to understand how to use them).
+At the end of the report there is also a guide for reproducing the project. 
+Attached are also all the images for the pygame sprites, images for the matrix test, the already trained cnn model and other images (see guide to understand how to use them).
 
 For any problems with execution or for any improvement, please contact me.
