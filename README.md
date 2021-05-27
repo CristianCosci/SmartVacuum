@@ -10,4 +10,4 @@ Implementation of a neural network for the recognition of letters from an image.
 
 At the end of the report there is also a guide for reproducing the project. Attached are also all the images for the pygame sprites, images for the matrix test, the already trained cnn model and other images (see guide to understand how to use them).
 
-For any problems with execution or for any improvement, please contact me
+For any problems with execution or for any improvement, please contact me.
